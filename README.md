@@ -1,10 +1,10 @@
 # Telecom-churn
 ## Upgrad Master of Science in Machine Learning & AI
 
-###Problem Statement
+Problem Statement  
  
 
-###Business Problem Overview
+Business Problem Overview  
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
  
@@ -25,7 +25,7 @@ In the Indian and the southeast Asian market, approximately 80% of revenue comes
 In this project, you will define high-value customers based on a certain metric (mentioned later below) and predict churn only on high-value customers.
 
  
-###Understanding the Business Objective and the Data  
+Understanding the Business Objective and the Data    
 The dataset contains customer-level information for a span of four consecutive months - June, July, August and September. The months are encoded as 6, 7, 8 and 9, respectively. 
 
 
